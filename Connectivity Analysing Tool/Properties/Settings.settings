@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Connectivity_Analysing_Tool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ENC_KEYSIDE" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+    <Setting Name="ENCRYPTION_PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ioj2i3oj4oi2j34oi2jijcasdPXZC129405182QWOIakdwo</Value>
+    </Setting>
+    <Setting Name="ENV_VECTOR" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">akoDAWokawpok4378y487thna</Value>
+    </Setting>
+    <Setting Name="FILE_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Windows\Temp\CTT\</Value>
+    </Setting>
+    <Setting Name="SPEEDTEST_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://myspeedtest.speedtestcustom.com</Value>
+    </Setting>
+    <Setting Name="TARGET_FILE1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cttd</Value>
+    </Setting>
+    <Setting Name="TARGET_FILE2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ctta</Value>
+    </Setting>
+    <Setting Name="TARGET_FILE3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cttb</Value>
+    </Setting>
+    <Setting Name="TARGET_FILE4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cttc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
